@@ -47,7 +47,7 @@ $('#codeblock-icon-linkedin').click(function () {
 });
 
 $('#codeblock-icon-donate').click(function () {
-	window.location.href = "https://www.buymeacoffee.com/alikaratel";
+	window.location.href = "https://alikaratel.com.tr/donate/";
 });
 
 $('#codeblock-icon-twitter').click(function () {
