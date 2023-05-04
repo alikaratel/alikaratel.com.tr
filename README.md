@@ -1,1 +1,0 @@
-# alikaratel.com.tr
