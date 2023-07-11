@@ -1,6 +1,6 @@
 # website
 
-[![Website Preview](assets/img/UPDATE.PNG)](https://alikratel.com.tr)
+[![Website Preview](assets/img/UPDATE.PNG)](https://alikaratel.com.tr)
 
 > github pages hosted personal website.
 
